@@ -2,7 +2,7 @@
 
 I'm a software engineer based in NYC, currently at Cockroach Labs (CockroachDB).
 
-[Website](www.xinhaoz.github.io) • [LinkedIn](https://www.linkedin.com/in/xinhao-zhang/)
+[Website](https://xinhaoz.github.io/) • [LinkedIn](https://www.linkedin.com/in/xinhao-zhang/)
 
 ## About Me
 - 🎓 Computer Science graduate from University of Waterloo 🇨🇦 (2021)
